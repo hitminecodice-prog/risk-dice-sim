@@ -14,4 +14,5 @@ Ensure you have python3 installed and run it using any shell using python3 on th
 ## Licensing
 This Code is under GPLv3 licensing 
 ## Notes
-I wanted to make this a small app in the future so you can run this in mobile or websites but you're free to create it as long you respect the license  
+I wanted to make this a small app in the future so you can run this in mobile or websites but you're free to create it as long you respect the license 
+![Risk Dice Simulator Terminal Output](screenshot.png)
